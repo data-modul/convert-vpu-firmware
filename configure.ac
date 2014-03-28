@@ -2,8 +2,8 @@
 # Process this file with autoconf to produce a configure script.
 
 AC_PREREQ([2.69])
-AC_INIT([coda-turn], [0.0.1], [silvio@port1024.net])
-AC_CONFIG_SRCDIR([coda-turn.c])
+AC_INIT([convert-vpu-firmware], [0.0.1], [silvio@port1024.net])
+AC_CONFIG_SRCDIR([convert-vpu-firmware.c])
 AC_CONFIG_HEADERS([config.h])
 AC_CONFIG_FILES([Makefile])
 AM_INIT_AUTOMAKE
